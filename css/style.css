@@ -1,0 +1,16 @@
+.big-box{
+	padding-top: 9rem;
+	text-align: center;
+	font-size: 5rem;
+	margin-top: 20px;
+	background: blue;
+	height: 500px; 
+}
+.mini-box{
+	text-align: center;
+	font-size: 5rem;
+	margin-top: 20px;
+	margin-left: 20px;
+	background: blue;
+	height: 240px; 
+}
